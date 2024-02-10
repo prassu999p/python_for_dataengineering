@@ -1,2 +1,2 @@
 # python_for_dataengineering
-Basic python for data engineering
+This is for the beginers who are looking to start on Python for data science or data analysis
